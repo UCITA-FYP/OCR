@@ -106,3 +106,8 @@ border-radius: 27px;
 .custom-file-input:hover::before {
   border-color: black;
 }
+
+h1{
+  color: #FF3D00;
+  
+}
