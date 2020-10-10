@@ -53,7 +53,7 @@ function App() {
   console.log(`${process.env.REACT_APP_API_KEY}`);
   return (
     <div className="App">
-      <img src="https://i.ibb.co/LpxDvR1/logo.png" className="logo" alt="" />
+      <h1>UCITA TESTING 2</h1>
       <div className="container">
         {loading && <div className="loader"></div>}
         {text == null ? (
